@@ -1,4 +1,4 @@
-# climate-resources
+## climate-resources
 Repository for reference information on climate change and emissions calculations
 
 # Climate Change Resources: Social Justice Hackathon
@@ -13,13 +13,13 @@ Patrick D. Landy
 * 1 metric ton of methane = the same global warming as 25 metric tons of CO2
 * 1 metric ton of nitrous oxide = the same global warming as 298 metric tons of CO2
 * Mass of CO2eq emissions = mass of CO2 emissions + (25 * mass of methane emissions) + (298 * mass of nitrous oxide emissions)
-* Sources: Table 8 in [EPA GHG Emissions Factors Document](https://www.epa.gov/sites/production/files/2020-04/documents/ghg-emission-factors-hub.pdf) and [Useful Summmary](https://climatechangeconnection.org/emissions/co2-equivalents/)
+* Sources: Table 8 in [EPA GHG Emissions Factors Document](https://www.epa.gov/sites/production/files/2020-04/documents/ghg-emission-factors-hub.pdf) and [Useful Summary](https://climatechangeconnection.org/emissions/co2-equivalents/)
 
 ## Climate Impact of Individuals
 
 ### Calculating carbon emissions from home energy consumption (most likely your power bills) or from transportation
 
-* The EPA frequently publishes emissions factors for different fuel sources and for electricity based on region within the United States. See Tables 1 and 6 in the EPA document.
+* The EPA frequently publishes emissions factors for different fuel sources and for electricity based on region within the United States. See Tables 1 and 6 in the [EPA document](https://www.epa.gov/sites/production/files/2020-04/documents/ghg-emission-factors-hub.pdf).
 
 ### Electricity
 
