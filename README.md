@@ -7,12 +7,12 @@ Patrick D. Landy
 
 [website](https://www.patrickdlandy.com)
 
-## CO2 vs CO2eq
+## CO<sub>2</sub> vs CO<sub>2</sub>e
 
-* Global warming is caused by the accumulation of greenhouse gases that are emitted into the atmosphere. Three common greenhouse gases are CO2, Methane (CH4), and Nitrous Oxide (N2O), with CO2 being by far the most dominant greenhouse gas emitted by human activities.  Methane and Nitrous Oxide cause more warming per unit of mass than CO2, but because so much CO2 is emitted compared to the other two, emissions are often expressed as CO2 “equivalent” (CO2eq), which expresses the emissions in terms of an equivalent mass of CO2 released.
-* 1 metric ton of methane = the same global warming as 25 metric tons of CO2
-* 1 metric ton of nitrous oxide = the same global warming as 298 metric tons of CO2
-* Mass of CO2eq emissions = mass of CO2 emissions + (25 * mass of methane emissions) + (298 * mass of nitrous oxide emissions)
+* Global warming is caused by the accumulation of greenhouse gases that are emitted into the atmosphere. Three common greenhouse gases are CO<sub>2</sub>, Methane (CH<sub>4</sub>), and Nitrous Oxide (N<sub>2</sub>O), with CO<sub>2</sub> being by far the most dominant greenhouse gas emitted by human activities.  Methane and Nitrous Oxide cause more warming per unit of mass than CO<sub>2</sub>, but because so much CO<sub>2</sub> is emitted compared to the other two, emissions are often expressed as CO<sub>2</sub> “equivalent” (CO<sub>2</sub>e), which expresses the emissions in terms of an equivalent mass of CO<sub>2</sub> released.
+* 1 metric ton of methane = the same global warming as 25 metric tons of CO<sub>2</sub>
+* 1 metric ton of nitrous oxide = the same global warming as 298 metric tons of CO<sub>2</sub>
+* Mass of CO<sub>2</sub>e emissions = mass of CO<sub>2</sub> emissions + (25 * mass of methane emissions) + (298 * mass of nitrous oxide emissions)
 * Sources: Table 8 in [EPA GHG Emissions Factors Document](https://www.epa.gov/sites/production/files/2020-04/documents/ghg-emission-factors-hub.pdf) and [Useful Summary](https://climatechangeconnection.org/emissions/co2-equivalents/)
 
 ## Climate Impact of Individuals
@@ -30,7 +30,7 @@ Patrick D. Landy
 | NYC Emissions From Electricity (Data and Factors)                |       |
 |------------------------------------------------------------------|-------|
 | Electricity consumed for month of November (My ConEd Bill) (kWh) | 100   |
-| CO2 factor for NYC Region (NYCW) (lb/MWh)                        | 596.4 |
+| CO<sub>2</sub> factor for NYC Region (NYCW) (lb/MWh)                        | 596.4 |
 | CH4 factor for NYC Region (NYCW) (lb/MWh)                        | .022  |
 | N2O factor for NYC Region (NYCW) (lb/MWh)                        | .002  |
 | Conversion factor (kg/lb)                                        | .454  |
@@ -39,9 +39,9 @@ Patrick D. Landy
 
 
 
-100 kWh * .001 MWh/kWh * (596.4 lb/MWh + 25 * .022 lb/MWh + 298 * .002 lb/ MWh) * .454 kg/lb *  .001 MT/kg = .027 MT CO2eq.
+100 kWh * .001 MWh/kWh * (596.4 lb/MWh + 25 * .022 lb/MWh + 298 * .002 lb/ MWh) * .454 kg/lb *  .001 MT/kg = .027 MT CO<sub>2</sub>e.
 
-So 1 (estimated) month of electricity in a New York City apartment emits .027 metric tons of CO2 eq. Assuming the same monthly quantity, that would be .324 metric tons annually from electricity consumption.
+So 1 (estimated) month of electricity in a New York City apartment emits .027 metric tons of CO<sub>2</sub>e. Assuming the same monthly quantity, that would be .324 metric tons annually from electricity consumption.
 
 ### Gas (Heating)
 
@@ -53,14 +53,14 @@ So 1 (estimated) month of electricity in a New York City apartment emits .027 me
 |  			NYC Emissions From Electricity (Data and Factors) 		     |  			  		     |
 |-|-|
 |  			Gas consumed for month of November (My ConEd Bill) (therms) 		     |  			5 		     |
-|  			CO2 factor for natural gas (kg/scf) 		     |  			.05444 		     |
+|  			CO<sub>2</sub> factor for natural gas (kg/scf) 		     |  			.05444 		     |
 |  			CH4 factor for natural gas (g/scf) 		     |  			.00103 		     |
 |  			N2O factor for natural gas (g/scf) 		     |  			.00010 		     |
 |  			Conversion factor (kg/g) 		     |  			.001 		     |
 |  			Conversion factor (MT/kg) 		     |  			.001 		     |
 |  			Conversion factor (scf/therm) 		     |  			97.25  			 		        |
 
-5 therms * 97.25 scf/therm * (.05444 kg/scf + (25 * .00103 g/scf + 298 * .00010 g/scf) * .001 kg/g) * .001 MT/kg = .026 MT CO2eq. 
+5 therms * 97.25 scf/therm * (.05444 kg/scf + (25 * .00103 g/scf + 298 * .00010 g/scf) * .001 kg/g) * .001 MT/kg = .026 MT CO<sub>2</sub>e. 
 
 ### Fuel Oil (for heating) or gasoline (automobiles)
 
@@ -72,7 +72,7 @@ So 1 (estimated) month of electricity in a New York City apartment emits .027 me
 
 ### Calculating emissions from food
 
-* The graphic on [this page (Our World in Data)](https://ourworldindata.org/food-choice-vs-eating-local) breaks down the estimated total life cycle CO2eq emissions from different foods. This includes transportation, land use change, and other impacts. Beef is the worst by far.
+* The graphic on [this page (Our World in Data)](https://ourworldindata.org/food-choice-vs-eating-local) breaks down the estimated total life cycle CO<sub>2</sub>e emissions from different foods. This includes transportation, land use change, and other impacts. Beef is the worst by far.
 
 ### Planting Trees
 
@@ -87,7 +87,7 @@ So 1 (estimated) month of electricity in a New York City apartment emits .027 me
 
 ## Climate Impact of Larger Systems
 
-* Project Drawdown publishes [estimates of global emissions avoided through various solutions](https://drawdown.org/solutions/table-of-solutions), often on the scale of tens of gigatons of CO2eq by 2050
+* Project Drawdown publishes [estimates of global emissions avoided through various solutions](https://drawdown.org/solutions/table-of-solutions), often on the scale of tens of gigatons of CO<sub>2</sub>e by 2050
 * The Carbon Disclosure Project published a [2017 report](https://6fefcbb86e61af1b2fc4-c70d8ead6ced550b4d987d7c03fcdd1d.ssl.cf3.rackcdn.com/cms/reports/documents/000/002/327/original/Carbon-Majors-Report-2017.pdf?1501833772) on the corporations most responsible for greenhouse gas emissions
 * [Emissions by country (Our World in Data)](https://ourworldindata.org/co2-and-other-greenhouse-gas-emissions#global-emissions-have-not-yet-peaked)
 * Example of an organization working on large-scale policy advocacy: [Clean Air Task Force](https://www.catf.us/)
